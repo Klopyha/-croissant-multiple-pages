@@ -1,0 +1,25 @@
+h1,
+p {
+  text-align: center;
+}
+
+div,
+img {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 12px;
+}
+
+body {
+  background-color: powderblue;
+}
+
+a.page-links {
+  margin: 0 7px;
+  color: seagreen;
+}
+
+img {
+  border-radius: 12px;
+}
